@@ -25,6 +25,6 @@ public class Number1 {
         Number1 number1 = new Number1();
 
         //printout the missing number
-        System.out.println( number1.findmissingnumber(a, 5));
+        System.out.println( number1.findmissingnumber(a, n));
     }
 }
